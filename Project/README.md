@@ -2,7 +2,7 @@
 
 > This project is a transformer architecture based translation system which converts an English sentence to a Bash command.
 
-You may want to check out the [Project Report](Project/docs/report.pdf) file for more details on this project. It was made as the final project for CS 726 - **Advanced Machine Learning** course in Spring 2019 at Indian Institute of Technology (IIT) Bombay, India.
+You may want to check out the [Project Report](docs/report.pdf) file for more details on this project. It was made as the final project for CS 726 - **Advanced Machine Learning** course in Spring 2019 at Indian Institute of Technology (IIT) Bombay, India.
 
 ## References
 
